@@ -13,6 +13,7 @@ public class PrimeNumber {
 						if(i%j!=0)
 						{
 							System.out.println(i);
+							break;
 						}
 						else {
 							break;
